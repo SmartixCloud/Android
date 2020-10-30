@@ -1,0 +1,19 @@
+import java.util.LinkedList;
+
+public class People {
+  public static void main(String[] args) {
+   enum Score { GOOD , BAD , SEXY };
+    LinkedList<String> People = new LinkedList<String>();
+    cars.add("Mano");
+    cars.add("Ravin");
+    cars.add("Sam");
+
+    cars.addFirst("Mazda");
+    System.out.println(cars);
+    i=0:
+    for (Score.x = Score.values());
+    {
+    System.out.println( People.get(i)+x)
+    i=i+1;
+    }
+}
